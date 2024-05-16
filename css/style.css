@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background: radial-gradient(rgb(150, 205, 196, 0.8), rgb(150, 205, 200, 0.5)), url(https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    min-height: 95vh;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#h {
+    background-color: #ffffff;
+    margin: 0;
+    height: 65px;
+    font-size: 2.5pc;
+    padding-left: 23px;
+    padding-top: 25px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+#p1 {
+    color: #000000;
+    padding: 20px 18px;
+}
+
+#p2 {
+    color: #000000;
+    margin: 20px;
+}
+
+#log {
+    position: fixed;
+    z-index: 10;
+    top: 7px;
+    right: 7px;
+    height: 129px;
+    width: 128px;
+
+}
+
+#h1 {
+    background-color: rgb(214, 214, 214);
+    opacity: 0.9;
+    margin: 10px;
+    padding: 0.5px;
+}
+
+#contact {
+    background-color: rgb(189, 189, 189);
+    color: rgb(27, 36, 40);
+    padding: 10px;
+    text-decoration: none;
+}
+
+#tab {
+    background-color: rgb(225, 239, 239);
+    text-decoration-color: rgb(7, 27, 27);
+    margin-left: 20px;
+    text-align: center;
+}
+
+#t1 {
+    margin-left: 90px;
+}
+
+#t2 {
+    margin-left: 50px;
+}
+
+.muz {
+    width: 470px;
+    display: block;
+    float: left;
+    margin: 18px;
+    border-radius: 10px;
+}
+
+.vid {
+    width: 455px;
+    height: 440px;
+    border-radius: 10px;
+    border: 0;
+    margin: 18px;
+}
+
+.arte {
+    width: 470px;
+    display: block;
+    float: left;
+    margin: 18px;
+    border-radius: 10px;
+}
